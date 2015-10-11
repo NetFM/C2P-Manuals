@@ -20,7 +20,8 @@ Company specific info is under each company directory
 
 e.g:-
 
-```root@big5 /home/manuals # more RBS/manuals/desktop/index.md 
+```
+root@big5 /home/manuals # more RBS/manuals/desktop/index.md 
 ---
 title: Desktop
 weight: 1
