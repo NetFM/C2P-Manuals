@@ -119,8 +119,6 @@ SpaceTypes that a 'User' cannot book will show as 'Unavailable' when hovering ov
 
 The following colours of spaces on Car Park Maps relate to the specific 'SpaceTypes' set within the system:
 
-![Alt text](/img/square.png?raw=true "Optional Title")
-
 Space colour  |Space Type|Bookable by
 --------------|----------|-----------
 <img class="media-object pull-left" style="background:#00ccff" src="/img/square.png" border="0"> light blue|disabled|All users
