@@ -2,13 +2,13 @@
 
 >**Click2Park Mobile**   
 
->If you need to Release your Annual Permit space or Book a HotSpace while you are not near a PC, you can use an internet-enabled smartphone or tablet to access Click2Park Mobile by typing the same address into your phone's browser address bar: [{{ page.company_url }}]({{ page.company_url }}]
+If you need to Release your Annual Permit space or Book a HotSpace while you are not near a PC, you can use an internet-enabled smartphone or tablet to access Click2Park Mobile by typing the same address into your phone's browser address bar: [{{ page.company_url }}]({{ page.company_url }}]
 
->Click2Park Mobile supports iOS, Android, Blackberry & Windows devices.
+Click2Park Mobile supports iOS, Android, Blackberry & Windows devices.
 
->**Please refer to the separate Click2Park Mobile User Guide for further instructions**
+**Please refer to the separate Click2Park Mobile User Guide for further instructions**
 
->**Please Note that You cannot register for Click2Park on the mobile version** and therefore need to have already Registered as a Click2Park user on the desktop version before you can use Click2Park Mobile.
+**Please Note that You cannot register for Click2Park on the mobile version** and therefore need to have already Registered as a Click2Park user on the desktop version before you can use Click2Park Mobile.
 
 Please refer to Section 1.2 of this user guide for details of how to register on the desktop version of Click2Park.
 
@@ -32,11 +32,11 @@ If you are offered an Annual Permit, you will have permission to park in a speci
 
 **PLEASE NOTE** If you are absent from work due to illness or any other reason then please make best endeavours to either release the space yourself (which you can do 24/7 from any PC, laptop, smartphone or android device) or get someone to action this on your behalf. This could be done as part of the absence reporting procedure when notifying or updating your line manager on your absence or alternatively by contacting EHQ Reception who will ensure the space is released on your behalf (Tel 0131 203 5000 or [**email TBEHQclick2park@i.tescobank.com**](mailto:{{ page.company_email }}?subject=Click2Park%20Release%20My%20Space%20Request)..
 
-**It is important that all colleagues have an opportunity to use car spaces when they are not being used by the parking space owner** and thus failure to release a space when not being used could result in a Yellow Card being issued. If a position is reached where a second Yellow Card is issued, you will be invited to an informal chat on how to improve the management of the parking space. Thereafter, any further oversights could then result in a Red Card being issued which in turn could lead to the withdrawal of your parking permit. If a Red card is going to be issued, you will be given two weeks’ notice of when the permit will be withdrawn, in which time you will have the opportunity to discuss the matter with the management team that look after the Click2Park system. 
+**It is important that all colleagues have an opportunity to use car spaces when they are not being used by the parking space owner** and thus failure to release a space when not being used could result in a Yellow Card being issued. If a position is reached where a second Yellow Card is issued, you will be invited to an informal chat on how to improve the management of the parking space. Thereafter, any further oversights could then result in a Red Card being issued which in turn could lead to the withdrawal of your parking permit. If a Red card is going to be issued, you will be given two weeks’ notice of when the permit will be withdrawn, in which time you will have the opportunity to discuss the matter with the management team that look after the Click2Park system.
 
 All bookings made on your space when you have released it are displayed in the 'Bookings on My Space' table in the Offer My Space pages.   You will receive an email notifying you of any bookings made on your space while it is released.
 
-**HotSpace Bookings** 
+**HotSpace Bookings**
 
 If you are not allocated an Annual Permit, you will still be able to use parking facilities by booking a 'HotSpace' on any Employee (Dark Blue) parking spaces that are available to book for your chosen Date & Times.
 
@@ -68,7 +68,7 @@ Click2Park should have been provided with your details prior to your first Regis
 
 You will be asked to provide the following information:
 
-- Email Address: This must be your email address. Registrations are restricted to email addresses from within your company wide domains. 
+- Email Address: This must be your email address. Registrations are restricted to email addresses from within your company wide domains.
 - First Name & Last Name.
 - Vehicle Registration.
 - Password: A minimum of 8 characters.
@@ -132,7 +132,7 @@ The following colours of spaces on Car Park Maps relate to the specific 'SpaceTy
 
 Space colour  |Space Type|Bookable by
 --------------|----------|-----------
-<img class="media-object pull-left" style="background:#003481" src="/img/square.png" border="0"> Dark Blue|Employee|All Users 
+<img class="media-object pull-left" style="background:#003481" src="/img/square.png" border="0"> Dark Blue|Employee|All Users
 <img class="media-object pull-left" style="background:#00ccff" src="/img/square.png" border="0"> Light Blue|Impaired Mobility|Admin & HigherAdmin Users Only
 <img class="media-object pull-left" style="background:#00ff00" src="/img/square.png" border="0"> Green|Car Share|Admin & HigherAdmin Users Only
 <img class="media-object pull-left" style="background:#ff9900" src="/img/square.png" border="0"> Orange|Visitor|Admin & HigherAdmin Users Only
@@ -154,7 +154,7 @@ If there is no colour surrounding the space number (e.g. you can see one of the 
 
 As a user, you can currently only click on the EHQ Car Park (see below) to search for and book a parking space within a detailed map view of that car park.
 
-The spaces within the car park are colour-coded to show the type of spaces available (see above). 
+The spaces within the car park are colour-coded to show the type of spaces available (see above).
 
 Spaces that are unavailable / already booked are shown as having a black background around the space's numbering. Spaces that are Partially Free (free for part of the time you have selected) have a light or pale green background.
 
@@ -236,7 +236,7 @@ Log In > Free Spaces > Select Site/CarPark > Select Date/Time > Click on Availab
 
 ## Booking a HotSpace
 
-**HotSpaces can only be booked for yourself.** If you need to book a hotspace for a Visitor, please contact HigherAdmin via the Email Us link on the user menu. 
+**HotSpaces can only be booked for yourself.** If you need to book a hotspace for a Visitor, please contact HigherAdmin via the Email Us link on the user menu.
 
 The list below provides a brief overview of the features and restrictions of HotSpace Bookings:
 
@@ -245,4 +245,3 @@ The list below provides a brief overview of the features and restrictions of Hot
 - HotSpace Bookings can be made up to 10 working days in advance.
 
 - To Cancel or Edit a HotSpace booking on the day the booking is for, please click on My Bookings > View > Cancel Reservation Request. The system will generate an email to your Click2Park Administrator who will then cancel or edit the booking as per your request. Please always add the reason why you are looking to cancel or edit the HotSpace booking.
-
