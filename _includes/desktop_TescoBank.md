@@ -4,7 +4,7 @@
 
 If you need to Release your Annual Permit space or Book a HotSpace while you are not near a PC, you can use an internet-enabled smartphone or tablet to access Click2Park Mobile by typing the same address into your phone's browser address bar: [{{ page.company_url }}]({{ page.company_url }}]
 
-Click2Park Mobile supports iOS, Android, Blackberry & Windows devices.
+Click2Park Mobile supports iOS, Android & Windows devices.
 
 **Please refer to the separate Click2Park Mobile User Guide for further instructions**
 
